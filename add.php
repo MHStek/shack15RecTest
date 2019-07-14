@@ -17,4 +17,8 @@ class ClassName
     {
         return $a * $b;
     }
+
+    private function convert(){
+        return true;
+    }
 }
