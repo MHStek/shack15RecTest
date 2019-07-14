@@ -12,4 +12,9 @@ class ClassName
     {
         return $a + $b;
     }
+    
+    public function multiply(float $a, float $b)
+    {
+        return $a * $b;
+    }
 }
